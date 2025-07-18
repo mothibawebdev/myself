@@ -1,0 +1,19 @@
+---
+title: "About"
+image: "image/self.jpg"
+image-shape: round
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/mothibawebdev
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/confidence-mothiba-36077455/
+    - icon: envelope
+      text: Email
+      href: "mailto:mothibacs@gmail.com"
+---
+
+About this blog

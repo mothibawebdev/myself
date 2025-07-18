@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Confidence Mothiba",
+    "section": "",
+    "text": "Confidence Mothiba is a Data Scientist, Software Developer, and Project Manager with a strong focus on healthcare-related initiatives. With a passion for innovation, Confidence builds and enhances data platforms that drive impactful decision-making. Beyond technical work, Confidence is deeply committed to supporting health science research—providing guidance and collaboration to data analysts and researchers alike."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Confidence Mothiba",
+    "section": "Education",
+    "text": "Education\nUniv. of Cape Town | Research Data Man. (Data Science)\nUniv. of Cape Town | Healthcare Technology Management\nUniv. of Washington | Project Management\nUniv. of Washington | Leadership & Management\nTshwane Univ. of Technology | Software Development"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Confidence Mothiba",
+    "section": "Experience",
+    "text": "Experience\nUniv. of Cape Town | Data Manager/Scientist | Apr 2023 - present\nUniv. of Cape Town | IT Consultant | Mar 2018 - Mar 2023\nSITA | Website Developer | April 2014 - Feb 2018"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#geoscynce-chief-analyst-spet-2012---april-2018",
+    "href": "index.html#geoscynce-chief-analyst-spet-2012---april-2018",
+    "title": "Confidence Mothiba",
+    "section": "GeoScynce | Chief Analyst | Spet 2012 - April 2018",
+    "text": "GeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  }
+]

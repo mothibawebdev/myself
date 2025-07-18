@@ -1,0 +1,39 @@
+---
+title: "Confidence Mothiba"
+about:
+  template: trestles
+  image: "image/self.jpg"
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/mothibawebdev
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/confidence-mothiba-36077455/
+    - icon: envelope
+      text: Email
+      href: "mailto:mothibacs@gmail.com"
+---
+
+**Confidence Mothiba** is a **Data Scientist**, **Software Developer**, and **Project Manager** with a strong focus on healthcare-related initiatives. With a passion for innovation, Confidence builds and enhances data platforms that drive impactful decision-making. Beyond technical work, Confidence is deeply committed to supporting health science research—providing guidance and collaboration to data analysts and researchers alike.
+
+## Education
+
+Univ. of Cape Town \| Research Data Man. (Data Science)
+
+Univ. of Cape Town \| Healthcare Technology Management
+
+Univ. of Washington \| Project Management
+
+Univ. of Washington \| Leadership & Management
+
+Tshwane Univ. of Technology \| Software Development
+
+## Experience
+
+Univ. of Cape Town \| Data Manager/Scientist \| Apr 2023 - present
+
+Univ. of Cape Town \| IT Consultant \| Mar 2018 - Mar 2023
+
+SITA \| Website Developer \| April 2014 - Feb 2018
